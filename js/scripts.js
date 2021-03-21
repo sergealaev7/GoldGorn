@@ -20,5 +20,5 @@ $(function () {
         }]
 
     });
-
+    AOS.init();
 });
